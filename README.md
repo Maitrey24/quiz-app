@@ -25,3 +25,9 @@ It includes:
 🏆 Scorecard with 🎉 Congratulations Message at the end
 
 Perfect for testing your GK skills in a fun way! 🚀
+
+# Output
+
+<img width="1888" height="957" alt="Screenshot 2025-07-20 141350" src="https://github.com/user-attachments/assets/c7ab035e-426b-43ef-837f-4c4003d82ee2" />
+
+
